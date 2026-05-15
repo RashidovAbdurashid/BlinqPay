@@ -13,7 +13,7 @@ function Payment() {
             <div className="custom-card">
               <div className="accent-line"></div>
               <div className="icon">
-                <img src={person} />
+                <img src={person} alt="person" />
               </div>
               <h3>Easy Access</h3>
               <p>Now track all of your transaction easily.</p>
@@ -22,7 +22,7 @@ function Payment() {
             <div className="custom-card">
               <div className="accent-line"></div>
               <div className="icon">
-                <img src={analytics} />
+                <img src={analytics} alt="analytics" />
               </div>
               <h3>Use You Connect</h3>
               <p>Now track all of your transaction easily.</p>
@@ -33,7 +33,7 @@ function Payment() {
             <div className="custom-card">
               <div className="accent-line"></div>
               <div className="icon">
-                <img src={cash} />
+                <img src={cash} alt="cash" />
               </div>
               <h3>Cashflow Visiblity</h3>
               <p>Now track all of your transaction easily.</p>
@@ -42,7 +42,7 @@ function Payment() {
             <div className="custom-card">
               <div className="accent-line"></div>
               <div className="icon">
-                <img src={repered} />
+                <img src={repered} alt="repered"/>
               </div>
               <h3>Manage Invoicing</h3>
               <p>Now track all of your transaction easily.</p>
