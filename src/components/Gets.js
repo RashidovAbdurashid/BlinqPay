@@ -18,7 +18,7 @@ function Gets() {
               Hac sem ut eget tellus diam convallis lacus a, interdum nulla sem
               adipiscing inwidunt sed in. Nunc, sed sed d
             </p>
-            <a href="#" className="learn-more-btn">
+            <a href="https://github.com/" className="learn-more-btn">
               Learn more <span className="arrow-icon">→</span>
             </a>
           </div>
@@ -39,7 +39,7 @@ function Gets() {
               Hac sem ut eget tellus diam convallis lacus a, interdum nulla sem
               adipiscing inwidunt sed in. Nunc, sed sed d
             </p>
-            <a href="#" className="learn-more-btn">
+            <a href="https://github.com/" className="learn-more-btn">
               Learn more <span className="arrow-icon">→</span>
             </a>
           </div>
@@ -53,7 +53,7 @@ function Gets() {
               Hac sem ut eget tellus diam convallis lacus a, interdum nulla sem
               adipiscing inwidunt sed in. Nunc, sed sed d
             </p>
-            <a href="#" className="learn-more-btn">
+            <a href="https://github.com/" className="learn-more-btn">
               Learn more <span className="arrow-icon">→</span>
             </a>
           </div>

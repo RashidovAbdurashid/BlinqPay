@@ -59,7 +59,7 @@ function Payment() {
             Hac sem ut eget tellus diam convallis lacus a, interdum nulla sem
             adipiscing inw
           </p>
-          <a href="#" className="learn-more-btn">
+          <a href="https://github.com/" className="learn-more-btn">
             Learn more <span className="arrow-icon">→</span>
           </a>
         </div>
